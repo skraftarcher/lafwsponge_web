@@ -1,0 +1,14 @@
+---
+title: "The Hunt"
+---
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+I envision this page being about how we look for sponges - where you've gone, etc.

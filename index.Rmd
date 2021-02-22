@@ -1,0 +1,21 @@
+---
+title: "Louisiana Freshwater Sponge Hunters"
+---
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+  
+```{r banner image,fig.align='center',out.width="100%",echo=FALSE,out.extra='style="background-color: #00637a; padding:18px; display: inline-block;"'}
+knitr::include_graphics("images/banner1.jpg")
+```  
+<br>
+<br> 
+Welcome to the Louisiana Freshwater Sponge Hunters page!
