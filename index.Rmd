@@ -1,9 +1,9 @@
 ---
-title: "The Louisiana Freshwater Sponge Project: Home of the Louisiana Freshwater Sponge Hunters"
+title: "The Louisiana Freshwater Sponge Project:"
 ---
 <style type="text/css">
-h1.title {
-  font-size: 52px;
+H1.title {
+  font-size: 48px;
   text-align: center;
 }
 body {
@@ -11,23 +11,29 @@ background-color: #B9F2FE
 }
 </style>
 <br>
-
-  
+<center>
+<h2>Home of the Louisiana Freshwater Sponge Hunters</h2>
+</center>
+<br>
+<br>
 ```{r banner image,fig.align='center',out.width="100%",echo=FALSE,out.extra='style="background-color: #00637a; padding:18px; display: inline-block;"'}
-knitr::include_graphics("images/banner1.jpg")
+knitr::include_graphics("banner1.jpg")
 ```  
 <br>
 <br> 
 Welcome to the Louisiana Freshwater Sponge Hunters page! 
 <br>
+<br>
 The Louisiana Freshwater Sponge Project was started by Dr. Mary Miller and a group
 of interns,in the Summer of 2019. The project was a follow up from the original survey that was conducted by Dr. Michael Poirrier in 1968. 
 <br>
+<br>
 The project is now shared between two institutions:
 <br>
+<br>
 Baton Rouge Community College, still led by Dr. Miller and 
-Louisiana Universities Marine Consortium, led by Dr. Stephanie Archer. The two 
-have continued to collaborate with Dr. Poirrier to identify sponges and answer
+Louisiana Universities Marine Consortium, led by Dr. Stephanie Archer. The two have continued to collaborate with Dr. Poirrier to identify sponges and answer
 questions related to these environmental health indicators.
+<br>
 <br>
 This project is designed to bring awareness of freshwater sponges, continuously survey Louisiana water systems, and share our finding with the public.  
