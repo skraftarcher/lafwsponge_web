@@ -1,0 +1,17 @@
+---
+Title: "_Trochosponigilla leidyi_"
+Output: html_document
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+_T. leidyi_ has been found in brackish and freshwater, in Louisiana. It is easily identified when both sponge body and gemmules are present. The have banana shaped megascelers and birotulas that are attached to their gemmules.
