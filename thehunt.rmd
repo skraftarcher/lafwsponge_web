@@ -12,3 +12,12 @@ background-color: #B9F2FE
 </style>
 <br>
 I envision this page being about how we look for sponges - where you've gone, etc.
+
+Freshwater sponges can be found in [lentic and lotic ecosystems](https://sciencing.com/lentic-lotic-ecosystems-7355077.html).
+
+```
+devtools::install_github("ijlyttle/vembedr")
+library(vembedr)
+
+embed_url("https://www.youtube.com/watch?v=BKFM70051Ag")
+```

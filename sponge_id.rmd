@@ -1,0 +1,36 @@
+---
+title: "Sponge Identification"
+---
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+Freshwater sponges are currently being identified in Louisiana using genetic information 
+and spicule morphology. Below is a list of common sponge species found in Louisiana.
+The tabs will bring you to a basic description, images of the sponges on common 
+substrates, and light microscopy and scanning electron microscopy of spicules 
+and gemmules!
+
+- [_Anheteromeyenia argyrosperma_](AA.html)
+- [_Corvospongilla becki_](c_becki.html)
+- [_Dosilia radiospiculata_](dr.html)
+- [_Duosclera mackayi_](dm.html)
+- [_Ephydatia fluviatilis_](Epf.html)
+- [_Eunapius fragilis_](Euf.html)
+- [_Heteromeyenia baileyi_](hb.html)
+- [_Racekiela ryderi_](rr.html)
+- [_Radiospongilla cerebellata_](rce.html)
+- [_Radiospongilla crateriformis_](rcr.html)
+- [_Spongilla alba_](sa.html)
+- [_Spongilla lacustris_](sl.html)
+- [_Trochospongilla horrida_](th.rmd)
+- [_Trochospongilla leidyi_](T_leidyi.html)
+- [_Trochospongilla pennsylvanica_](tp.html)
+
