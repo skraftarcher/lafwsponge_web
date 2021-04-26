@@ -14,4 +14,13 @@ background-color: #B9F2FE
 </style>
 <br>
 
-_T. leidyi_ has been found in brackish and freshwater, in Louisiana. It is easily identified when both sponge body and gemmules are present. The have banana shaped megascelers and birotulas that are attached to their gemmules.
+_T. leidyi_ has been found in brackish and freshwater in Louisiana. While the can 
+grow in lentic and lotic systems, most in the Louisiana study have been found in lotic water systems. It is easily identified when both sponge body and gemmules are present. They have banana shaped megascelers and birotulas that are embedded in the gemmules. Common substrates include rocks, wooden posts,
+metal objects, and bricks.
+<br>
+
+
+```{r substrate image,fig.align='center',out.width="100%",echo=FALSE,out.extra='style="background-color: #00637a; padding:18px; display: inline-block;"'}
+knitr::include_graphics("T.leidyi.PNG")
+```   
+
